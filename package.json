@@ -32,8 +32,21 @@
     "trailingComma": "es5"
   },
   "name": "lt_log",
-  "author": "Sachin",
+  "author": "Sachin Beniwal <sachinbeniwal0101@gmail.com>",
   "module": "dist/lt_log.esm.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benodiwal/lt_log.git"
+  },
+  "keywords": [
+    "logger",
+    "json_logs",
+    "levels"
+  ],
+  "bugs": {
+    "url": "https://github.com/benodiwal/lt_log/issues"
+  },
+  "homepage": "https://github.com/benodiwal/lt_log#readme",
   "size-limit": [
     {
       "path": "dist/lt_log.cjs.production.min.js",
