@@ -15,14 +15,14 @@
 You can install the library using npm or Yarn:
 
 ```bash
-npm install log
+npm install lt_log
 ```
 
 or 
 
 
 ```bash
-yarn add log
+yarn add lt_log
 ```
 
 ## Usage
